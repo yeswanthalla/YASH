@@ -1,3 +1,16 @@
+"""*************Modules needed********
+1.pip install wolframalpha
+2.pip install wikipedia
+3.pip install SpeechRecognition
+4.pip install ecapture
+5.pip install twilio
+6.pip install beautifulsoup4
+7.pip install pyaudio
+8.pip install feedparser
+9.pip install pyjokes
+10.pip install pywin32
+11.pip install pyttsx3
+"""
 import subprocess
 import wolframalpha
 import pyttsx3
